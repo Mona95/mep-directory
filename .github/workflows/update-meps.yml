@@ -3,7 +3,7 @@ name: Update MEP Data
 on:
   schedule:
     - cron: '0 2 * * 0'  # Every Sunday at 2 AM
-  workflow_dispatch:  # Allow manual trigger
+  workflow_dispatch:  # Allow manual trigger of the workflow
 
 jobs:
   scrape:
