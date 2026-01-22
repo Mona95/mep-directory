@@ -1,7 +1,7 @@
 export const iranCampaign = {
   id: 'iran',
   title: 'Iran Revolution Campaign',
-  subtitle: 'Support stronger EU measures against the Iranian regime',
+  subtitle: 'Support stronger EU measures against the mullah regime',
 
   // Multiple subject lines - randomly selected
   subjects: [
